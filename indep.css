@@ -1,0 +1,5 @@
+body {
+    height: 100vh; /* Ensure the body takes the full viewport height */
+    margin: 0; /* Remove default margin */
+    background-image: linear-gradient(to right, rgb(0, 255, 42), #001aff);
+  }
