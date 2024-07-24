@@ -1,0 +1,24 @@
+body {
+    height: 100vh; /* Ensure the body takes the full viewport height */
+    margin: 0; /* Remove default margin */
+    background-image: linear-gradient(to right, rgb(24, 9, 32), #382304);
+  }
+body { 
+  color: cyan;
+}
+
+.container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.image {
+  margin: 10px;
+  border-radius: 100px;
+  width: 500px;
+  height: auto;
+}
+
+h1, h2, p {
+  color: cyan;
+}
